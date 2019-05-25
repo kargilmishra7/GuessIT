@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessIT</string>
+    <string name="welcome">welcome</string>
+    <string name="trial">Trials</string>
+    <string name="number">GUESS THE NUMBER</string>
+    <string name="thank">Thankyou for choosing us!</string>
+    <string name="guess">GUESS</string>
+
+</resources>
